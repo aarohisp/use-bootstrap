@@ -3,7 +3,11 @@ import React from "react";
 export default function Card() {
   return (
     <div className="card" style={{ width: "18rem" }}>
-      <img src="..." className="card-img-top" alt="..." />
+      <img
+        src="https://www.shutterstock.com/image-photo/kiev-ukraine-march-31-2015-260nw-275940803.jpg"
+        className="card-img-top"
+        alt="..."
+      />
       <div className="card-body">
         <h5 className="card-title">Card title</h5>
         <p className="card-text">

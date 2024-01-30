@@ -1,15 +1,13 @@
 import React from "react";
+import Card from "./Card";
 
 export default function CardsCollection() {
   return (
-    <div classname="row">
-      <card>
-        <card>
-          <card>
-            <card></card>
-          </card>
-        </card>
-      </card>
+    <div class="row">
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </div>
   );
 }

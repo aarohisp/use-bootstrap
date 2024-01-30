@@ -10,6 +10,8 @@ export default function Carousel() {
               src="https://www.shutterstock.com/image-photo/kiev-ukraine-march-31-2015-260nw-275940803.jpg"
               className="d-block w-100"
               alt="..."
+              width={20}
+              height={275}
             />
           </div>
           <div className="carousel-item">
@@ -17,6 +19,8 @@ export default function Carousel() {
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5ZwuyL48VQ6k3PbA9dyPRUaDCVbKcICpXHaijp4vLA&s"
               className="d-block w-100"
               alt="..."
+              width={20}
+              height={275}
             />
           </div>
           <div className="carousel-item">
@@ -24,6 +28,8 @@ export default function Carousel() {
               src="https://www.shutterstock.com/image-photo/kiev-ukraine-march-31-2015-260nw-275940803.jpg"
               className="d-block w-100"
               alt="..."
+              width={20}
+              height={275}
             />
           </div>
         </div>
